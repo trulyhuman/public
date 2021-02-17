@@ -1,0 +1,40 @@
+table {
+ width: 500px !important;
+  background-color: white;
+  box-shadow: 0px 0px 100px rgba(73, 76, 80, 0.3) ;
+  border-radius: 5px !important;
+}
+
+body
+{
+    background-color: whitesmoke;
+}
+
+.heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+.thead
+{
+    
+    background-color: tomato;
+    
+}
+
+.thead tr
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 18px;
+}
+
+table tr td
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
